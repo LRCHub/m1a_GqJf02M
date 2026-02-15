@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "God's Plan",
+  "base_artist": "Drake",
+  "createdAt": "2026-02-15T06:04:06.170287Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "God's Plan",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/01_God's_Plan_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "God's Plan",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/02_God's_Plan_Drake.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "God's Plan",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/03_God's_Plan_Drake.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "God's Plan",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/04_God's_Plan_Drake.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "God's Plan",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/05_God's_Plan_Drake.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "God's Plan (Clean Edit)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/06_God's_Plan_(Clean_Edit)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "God's Plan",
+      "artist": "Our Last Night",
+      "has_synced": true,
+      "path": "select/07_God's_Plan_Our_Last_Night.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "God's Plan",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/08_God's_Plan_Drake.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "God's Plan",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/09_God's_Plan_Drake.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "God's Plan",
+      "artist": "CHVRCHΞS",
+      "has_synced": true,
+      "path": "select/10_God's_Plan_CHVRCHΞS.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "God's Plan (Explicit)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/11_God's_Plan_(Explicit)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "God's Plan",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/12_God's_Plan_Drake.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "God's Plan",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/13_God's_Plan_Drake.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Gods Plan",
+      "artist": "Bars and Melody",
+      "has_synced": false,
+      "path": "select/14_Gods_Plan_Bars_and_Melody.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "God's Plan (Dance Mix)",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/15_God's_Plan_(Dance_Mix)_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "God's Plan (feat. O.T. Genasis)",
+      "artist": "Busta Rhymes feat. O.T. Genasis",
+      "has_synced": true,
+      "path": "select/16_God's_Plan_(feat._O.T._Genasis)_Busta_Rhymes_feat._O.T._Genasis.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Nothing Is Perfect (In God's Plan) (Live at Live Aid, John F. Kennedy Stadium, 13th July 1985)",
+      "artist": "Neil Young",
+      "has_synced": true,
+      "path": "select/17_Nothing_Is_Perfect_(In_God's_Plan)_(Live_at_Live_Aid,_John_F._Kennedy_Stadium,_1_Neil_Young.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "UNDER GOD'S PLAN",
+      "artist": "Isyana Sarasvati feat. Mantra Vutura",
+      "has_synced": true,
+      "path": "select/18_UNDER_GOD'S_PLAN_Isyana_Sarasvati_feat._Mantra_Vutura.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "God's Plan",
+      "artist": "Drake",
+      "has_synced": false,
+      "path": "select/pl_01_God's_Plan_Drake.txt"
+    }
+  ]
+}
